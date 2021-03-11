@@ -4,7 +4,7 @@ public class Program{
 
     public static void main (String args[]){
 
-        System.out.println("Введите целое число часов (без минут):");
+        System.out.println("Type the integer present Hour digit that you're seeing on your clock (0..24)");
 
         Scanner hh = new Scanner(System.in);
 
